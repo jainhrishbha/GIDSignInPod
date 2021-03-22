@@ -2,13 +2,13 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "GIDSignInPod"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.2"
   spec.summary      = "GIDSignInPod helps you enable Google Sign In"
   spec.homepage     = "https://github.com/jainhrishbha/GIDSignInPod"
   spec.platform = :ios
   spec.ios.deployment_target = '13.6'
 
-spec.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+spec.license      = { :type => "MIT", :file => "LICENSE" }
 
   spec.author             = { "Hrishbha Jain" => "hrishbhajain@magenative.com" }
 
